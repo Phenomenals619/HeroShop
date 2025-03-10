@@ -136,8 +136,8 @@ const AuthModule = (() => {
     };
 
     const endpoints = {
-        signup: "http://localhost:5000/api/auth/signup",
-        login: "http://localhost:5000/api/auth/login",
+        signup: "https://heroshop-backend.onrender.com/api/auth/signup",
+        login: "https://heroshop-backend.onrender.com/api/auth/login",
     };
 
     const init = () => {
